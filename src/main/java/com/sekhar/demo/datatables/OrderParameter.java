@@ -1,4 +1,4 @@
-package com.rbtsb.datatables;
+package com.sekhar.demo.datatables;
 
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
@@ -7,7 +7,7 @@ import javax.validation.constraints.Pattern;
 import lombok.Data;
 
 /**
- * @author kent
+ * @author Sekhar
  *
  */
 @Data

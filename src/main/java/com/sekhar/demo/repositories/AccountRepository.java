@@ -1,15 +1,15 @@
-package com.rbtsb.repositories;
+package com.sekhar.demo.repositories;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.Query;
 
-import com.rbtsb.entities.Account;
+import com.sekhar.demo.entities.Account;
 
 /**
  * Account JPA Repository
  * 
- * @author Kent
+ * @author Sekhar
  *
  */
 public interface AccountRepository extends BaseRepository<Account> {

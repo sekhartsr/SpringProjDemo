@@ -13,8 +13,10 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 import javax.persistence.Version;
 
-import org.apache.tomcat.jni.Global;
 import org.hibernate.annotations.GenericGenerator;
+
+import com.sekhar.demo.utils.Global;
+import com.sekhar.demo.utils.SecurityContextUtil;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

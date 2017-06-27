@@ -1,4 +1,4 @@
-package com.rbtsb.datatables;
+package com.sekhar.demo.datatables;
 
 import java.util.Arrays;
 

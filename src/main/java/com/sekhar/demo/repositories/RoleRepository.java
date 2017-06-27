@@ -1,14 +1,14 @@
-package com.rbtsb.repositories;
+package com.sekhar.demo.repositories;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
-import com.rbtsb.entities.Role;
+import com.sekhar.demo.entities.Role;
 
 /**
  * Role JPA Repository
  * 
- * @author Kent
+ * @author Sekhar
  *
  */
 public interface RoleRepository extends BaseRepository<Role> {
